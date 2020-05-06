@@ -1,0 +1,7 @@
+{
+    "name": "testing-xstate",
+    "private": true,
+    "dependencies": {
+        "xstate": "^4.9.1"
+    }
+}
